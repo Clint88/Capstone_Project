@@ -1,0 +1,28 @@
+div.row1{
+    background-color: rgb(255, 241, 244);
+    font-family: "Times New Roman", Times, serif;
+    padding-right: 150px;
+    padding-left: 150px;
+}
+div.row2{
+    background-color: rgb(255, 241, 244);
+    font-family: "Times New Roman", Times, serif;
+    padding-right: 20%;
+    padding-left: 20%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+div.card-body.one{
+    background-color: url("dots.png");
+}
+div.card.one{
+    background-color: rgb(255, 241, 244);
+}
+nav#nav1{
+    padding-left: 16%;
+    padding-right: 18%;
+}
+nav#nav2{
+    padding-left: 15.3%;
+    padding-right: 18%;
+}
